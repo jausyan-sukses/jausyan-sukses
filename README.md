@@ -1,4 +1,4 @@
-![Alt Text](images/header.png)
+![Alt Text](header.png)
 
 - ✈️ Hire me for remote work & internships
 - 💼 Do read my resume here: https://jausyan-sukses.github.io/jausyan.github.io/
