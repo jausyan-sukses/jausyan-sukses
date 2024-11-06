@@ -1,3 +1,5 @@
+![Alt Text](images/header.png)
+
 - ✈️ Hire me for remote work & internships
 - 💼 Do read my resume here: https://jausyan-sukses.github.io/jausyan.github.io/
 - 🎓 learning Computer Science and Engineering in sepuluh nopember institute of technologhy
