@@ -1,6 +1,6 @@
 ![Alt Text](head.png)
 
-<h1 align="center">Hi there, I'm El Jausyan 👋</h1>
+<h1 align="center">~ M K EL JAUSYAN ~</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Robotics+and+AI+Engineer;OpenCV+%7C+ROS+%7C+Python+%7C+C%2B%2B;Learning+without+Doing+is+Nothing" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Know me Deep
 
 - 🎓 studying **Computer Engineering** at **Institut Teknologi Sepuluh Nopember (ITS)**.
 - 🤖 **Robotics**, **Artificial Intelligence**, and **Embedded Systems**.
@@ -39,7 +39,7 @@
 
 ---
 
-### 📫 Let's Connect
+### 📫 Find Me 
 
 - 🌐 [Portfolio Website](yan-sukses.github.io/jausyan.github.io/work.html)
 - 💼 [LinkedIn](https://www.linkedin.com/in/el-jausyan-812928317/)
