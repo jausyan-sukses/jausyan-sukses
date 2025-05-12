@@ -1,4 +1,4 @@
-![Alt Text](header.png)
+![Alt Text](head.png)
 
 <h1 align="center">Hi there, I'm El Jausyan 👋</h1>
 
