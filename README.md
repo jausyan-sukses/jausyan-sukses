@@ -31,12 +31,7 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jausyan&show_icons=true&theme=github_dark" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jausyan&layout=compact&theme=github_dark" height="180">
-</p>
-
+![Alt Text](giphy.gif)
 ---
 
 ### 📫 Find Me 
