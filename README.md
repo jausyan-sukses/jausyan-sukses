@@ -3,7 +3,7 @@
 <h1 align="center">~ M K EL JAUSYAN ~</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Sepuluh+Nopember+Institute+of+Technologhy;Robotics+and+AI+Engineer;OpenCV+%7C+ROS+%7C+Python+%7C+C%2B%2B;Learning+without+Doing+is+Nothing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Sepuluh+Nopember+Institute+of+Technologhy;Robotics+and+AI+Engineer;OpenCV+%7C+ROS+%7C+Python+%7C+C%2B%2B;Learning+without+Doing+is+Nothing" alt="Typing SVG" />
 </p>
 
 ---
